@@ -1,0 +1,31 @@
+#adicional {
+	color: olive;
+}
+
+h1 {
+	color: teal;
+}
+
+h2,caption,em {
+	color: blue;
+}
+
+a,strong {
+	color: red;
+}
+.destacado span {
+	color: purple;
+}
+
+.adicional a {
+	color: green;
+}
+td,th,tr{
+	border: 1px solid;
+}
+.especial  {
+	color: orange;
+}
+tfoot {
+	color: red;
+}
