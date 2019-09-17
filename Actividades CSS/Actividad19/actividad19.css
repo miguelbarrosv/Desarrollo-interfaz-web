@@ -1,0 +1,36 @@
+body {
+	background-color: #FFDBA4;
+}
+
+h1 {
+	text-align: center;
+	color: grey;
+}
+
+h2 {
+	padding-left: 0.5em;
+	background-color: #B0833D;
+	position: relative;
+	bottom: 40px;
+	width: 75%;
+	margin-left: 40px;
+	color: white;
+}
+
+div {
+	float: left;
+	width: 19%;
+	border:3px dashed orange;
+	height: 20%;
+	padding: 0.5em;
+	margin: 10px 7px;
+	background-color: #E4BD81;
+}
+
+#especial {
+	clear: both;
+}
+
+* {
+	box-sizing: border-box;
+}
