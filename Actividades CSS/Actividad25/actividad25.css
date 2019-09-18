@@ -1,0 +1,41 @@
+table {
+	margin:0 auto;
+}
+tr #col {
+	background-color: #ECECEC;
+}
+
+.yen, .dolar, .libra, .euro {
+	background-color: #CDE3EE;
+}
+
+tr td{
+	background-color: #ECECEC;
+}
+
+.par td {
+	background-color: #EEFE99;
+}
+
+.euro {
+	padding: 0px 0.5em 0px 1.2em;
+	background:url(imagenes/euro.png) no-repeat;
+}
+
+.dolar {
+	padding: 0px 0.5em 0px 1.2em;
+	background:url(imagenes/dolar.png) no-repeat;
+}
+
+.yen {
+	padding: 0px 0.5em 0px 1.2em;
+	background:url(imagenes/yen.png) no-repeat;
+}
+
+.libra {
+	padding: 0px 0.5em 0px 1.2em;
+	background:url(imagenes/libra.png) no-repeat;
+}
+
+
+	
