@@ -54,6 +54,9 @@ th {
 	background-color: white;
 }
 
+#diario { overflow: scroll;
+
+}
 * {
 	box-sizing: border-box;
 }

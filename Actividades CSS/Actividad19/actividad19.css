@@ -17,6 +17,17 @@ h2 {
 	color: white;
 }
 
+p {
+	font-size: 1.2em;
+	margin:0 auto;
+	width: 100%;
+}
+
+p::first-letter{
+  font-size: 2rem;
+  color:  #B0833D;
+}
+
 div {
 	float: left;
 	width: 19%;

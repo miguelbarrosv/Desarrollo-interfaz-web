@@ -1,0 +1,28 @@
+body {
+	margin:0 auto;
+	max-width: 960px;
+}
+
+h1 {
+	text-align: center;
+}
+
+#container {
+	display: flex;
+}
+
+#col_derecha {
+	width: 700px
+}
+
+#col_izq {
+	width: 260px;
+}
+
+#col_derecha ul li {
+	width: 33%;
+	margin: 10px;
+}
+#col_derecha ul {
+	display: flex;
+}
