@@ -1,0 +1,32 @@
+.display-great {
+	font-size: 1em;
+}
+
+#wrapper {
+	margin: 0 auto;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+header, footer, #wrapper {
+	width: 95%;
+	float: left;
+}
+
+#main-nav {
+	width: 20%;
+	float: left;
+	margin: 15px 15px 0px 0px;
+}
+
+#main-section {
+	width: 74%;
+	float: left;
+	margin: 15px 0px;
+}
+
+* {
+	box-sizing: border-box;
+}

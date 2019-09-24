@@ -1,0 +1,16 @@
+.display-medium {
+
+}
+
+body {
+	
+}
+
+#wrapper {
+	max-width: 900px;
+	display: block;
+}
+
+#main-section,header,footer,#main-nav {
+	width: 100%;
+}
