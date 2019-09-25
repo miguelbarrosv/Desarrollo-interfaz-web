@@ -1,3 +1,5 @@
+@media screen and (min-width: 800px) {
+	
 * {
 	margin: 0;
 	padding: 0;
@@ -31,10 +33,11 @@ header h1{
 	/*Añadir propiedad aquí*/
 	float: left;
 	padding: 20px;
-	width: 70%;
+	width: 67%;
 }
 
 .main img {
+	width: 98%;
 	/*Añadir propiedades aquí*/
 }
 
@@ -43,7 +46,7 @@ aside {
 	/*Añadir propiedad aquí*/
 	float: left;
 	padding: 20px;
-	width: 30%;
+	width: 25%;
 }
 
 footer {
@@ -55,6 +58,97 @@ footer {
 	padding: 20px;
 	width: 100%;
 }
+}
 
 /*---------MEDIA QUERIES--------*/
+@media screen and (max-width: 799px) and (min-width: 400px){
+body {
+	background-color: orange;
+}
+header{
+	background: #EB4A33;
+	width: 100%;
+}
 
+header h1{
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+}
+.main {
+	background: #fff;
+	/*Añadir propiedad aquí*/
+	padding: 20px;
+	width: 67%;
+}
+
+.main img {
+	width: 98%;
+	/*Añadir propiedades aquí*/
+}
+
+aside {
+	background: #ccc;
+	padding: 20px;
+}
+
+footer {
+	background: #000;
+	color: #fff;
+	padding: 20px;
+}
+aside,.main,footer{
+	width: 93%;
+}
+.contenedor {
+	margin: 0 auto;
+	max-width: 600px;
+}
+}
+
+@media screen and (max-width: 399px) {
+	body {
+	background-color: orange;
+}
+header{
+	background: #EB4A33;
+	width: 100%;
+}
+
+header h1{
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+}
+.main {
+	background: #fff;
+	/*Añadir propiedad aquí*/
+	padding: 20px;
+	width: 67%;
+}
+
+.main img {
+	width: 98%;
+	/*Añadir propiedades aquí*/
+}
+
+aside {
+	background: #ccc;
+	padding: 20px;
+}
+
+footer {
+	background: #000;
+	color: #fff;
+	padding: 20px;
+}
+	.container {
+		width: 100%;
+		margin: 0;
+	}
+
+	aside,.main,footer{
+	width: 100%;
+}
+
+}
