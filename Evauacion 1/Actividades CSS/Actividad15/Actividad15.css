@@ -1,0 +1,62 @@
+body {
+	margin: 0;
+}
+
+h1 {
+	background-color: #BDBDBD;
+	color: white;
+	display: inline-block;
+	width: 85%;
+	margin: 0;
+	height: 15%;
+}
+#container {
+	margin:0;
+}
+
+table{
+	margin: 0 auto;
+}
+
+#calend {
+	text-align: center;
+	background-color: grey;
+	width: 15%;
+	height: 1400px;
+	float: right;
+	margin:0;
+	justify-content: center;
+}
+
+#diario {
+	
+	float: left;
+	width: 84%;
+	margin-left: 20px;
+	padding: 1em;
+}
+#L187, #L192, #L197,#L216,#L237 {
+	border: 2px solid;
+	margin: 10px;
+}
+h2 {
+	color: white;
+}
+
+h3 {
+	margin:0;
+	background-color: #BDBDBD;
+	color: white;
+	text-align: right;
+}
+
+th {
+	background-color: white;
+}
+
+#diario { overflow: scroll;
+
+}
+* {
+	box-sizing: border-box;
+}

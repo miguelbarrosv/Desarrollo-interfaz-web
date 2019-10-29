@@ -1,0 +1,77 @@
+body,html {
+	margin: 0;
+	padding: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#menu {
+	background: url("fondo2.jpg") no-repeat;
+  	background-size: cover;
+  	width: 100%;
+	height: 100vh;
+	margin: 0;
+	padding: 20px;
+}
+
+#imgMenu {
+	float: right;
+	width: 50px;
+	margin-right: 50px;
+}
+
+#imgLogo {
+	width: 100px;
+	margin-left: 50px;
+}
+
+#imgLogo:hover, #imgMenu:hover {
+	cursor: pointer;
+}
+
+#imgMenu:hover {
+	transform: scale(1.2);
+}
+
+h1 {
+	font-size: 90px;
+	color: #FFFFFF;
+	animation-duration: 2s;
+	animation-name: titulo;
+	margin: 0;
+	padding-top: 14%;
+	margin-left: 65%;
+	font-weight:bold; 
+	color: #83DAF2; 
+	text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68; 
+}
+
+@keyframes titulo {
+	from {
+    margin-left: 150%;
+   	width: 300%
+  }
+
+  to {
+    margin-left: 65%;
+    width: 100%;
+  }
+}
+
+#apartado2 {
+	width: 100%;
+	height: auto;
+	margin: 0;
+}
+
+#video {
+	top: 0%;
+  	left: 0%;
+  	height: 400px;
+  	width: 100%;
+  	overflow: hidden;
+}
+
+

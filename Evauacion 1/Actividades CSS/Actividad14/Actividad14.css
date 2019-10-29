@@ -1,0 +1,37 @@
+h1 {
+	background-color: #64FE2E;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#container {
+	display: flex;
+}
+
+#carta {
+	display: inline-block;
+	width: 69%;
+	background-color: #BDBDBD;
+	margin-left: 10px;
+
+}
+
+#indice {
+	display: inline-block;
+	background-color: #81BEF7;
+	width: 30%;
+	flex-direction: column;
+	height: 20%;
+
+}
+
+a {
+	color: white;
+}
+
+* {
+	box-sizing: border-box;
+}
