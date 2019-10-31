@@ -1,0 +1,23 @@
+.examplemultiplebackgroundsa {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("ribbon.png"),url("old_paper.jpg") ;
+    background-repeat: no-repeat;
+    background-position: right bottom,center;
+    background-size: 300px,100%;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    position: absolute;
+    right: 0px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+body,html {
+    margin: 0;
+    padding: 0;
+}

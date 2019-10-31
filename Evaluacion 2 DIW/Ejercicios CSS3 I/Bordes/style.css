@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.exampleborderradius {
+    width: 10%;
+    background-color: lightgray;
+    margin:20px;
+    height: 100px;
+    align-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.examplelabelborderradius {
+    margin: 0 auto;
+}
+
+#a {
+    border-bottom-right-radius: 30% 65%;
+}
+
+#b {
+    border-bottom-right-radius: 25%;
+}
+
+#c {
+    border-bottom-right-radius: 15% 80%;
+}
+
+#d {
+    border-bottom-right-radius:10% 40%;
+    border-bottom-left-radius: 50% 60%;
+    border-top-left-radius: 10% 40%;
+    border-top-right-radius: 50% 60%;
+}
+
+#e {
+    border-bottom-right-radius:10% 5%;
+    border-bottom-left-radius: 10% 20%;
+    border-top-left-radius: 30% 5%;
+    border-top-right-radius: 10% 20%;
+}
+
+#f {
+    border-radius: 100%;
+    height: 100px; width: 100px;
+}
