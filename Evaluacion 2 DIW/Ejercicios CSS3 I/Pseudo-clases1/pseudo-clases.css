@@ -1,0 +1,36 @@
+section {
+    background-color: #DFDFDF;
+}
+
+h1 {
+    color: #4682B4;
+}
+
+.UI input[type=text],input[type=email],textarea {
+    border-color: steelblue;
+}
+.UI {
+    color: steelblue;
+    grid-column: 1/3;
+    grid-row: 2/3;
+}
+
+input[type=submit] {
+    background-color: steelblue;
+    color: white;
+}
+section {
+    display: grid;
+    grid-template-columns: repeat(2,50%);
+    grid-template-rows: repeat(2,50%);
+}
+
+.nth-of-type {
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+.nth-child {
+    grid-column: 2/3;
+    grid-row: 1/2;
+}
