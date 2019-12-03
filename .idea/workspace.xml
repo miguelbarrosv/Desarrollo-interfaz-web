@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86b25c63-ba60-4a4a-b10e-966d5538ed29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Evaluacion 2 DIW/Ejercicios CSS3 I/Pseudo-clases1/pseudo-clases.css" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion 2 DIW/Ejercicios CSS3 I/Pseudo-clases1/pseudo-clases.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Evaluacion 3/Ejercicios Bootstrap 1-3 (maquetacion)/Ejercicio1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion 3/Ejercicios Bootstrap 1-3 (maquetacion)/Ejercicio1/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572957262199</updated>
       <workItem from="1572957263522" duration="1839000" />
+      <workItem from="1575376074706" duration="2126000" />
     </task>
     <servers />
   </component>
@@ -51,7 +53,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
