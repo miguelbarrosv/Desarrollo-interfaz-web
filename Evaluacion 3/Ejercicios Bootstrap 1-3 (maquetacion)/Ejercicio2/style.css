@@ -1,0 +1,24 @@
+.header, .footer {
+    background-color: greenyellow;
+}
+
+.numemros {
+    background-color: #4682B4;
+}
+
+.letras {
+    background-color: gray;
+}
+
+.dispositivo {
+    background-color: #b3d7ff;
+}
+
+.emoticonos {
+    background-color: orange;
+}
+
+div {
+    text-align: center;
+}
+
