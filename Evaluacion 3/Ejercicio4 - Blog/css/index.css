@@ -1,0 +1,27 @@
+.jumbotron {
+    background-color: orange;
+}
+
+.nav {
+    background-color: steelblue;
+}
+
+.containerBody {
+    background-color:hotpink;
+}
+
+.paginacion {
+    background-color: yellow;
+}
+
+.articulo {
+    background-color: greenyellow;
+}
+
+.aside {
+    background-color: red;
+}
+
+.footer {
+    background-color: darkgrey;
+}
