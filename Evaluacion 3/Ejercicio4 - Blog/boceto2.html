@@ -5,44 +5,134 @@
 	<title>Blog DIW</title>
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/index.css">
+	<link rel="stylesheet" href="css/boceto2.css">
 
 </head>
 <body>
 	<!--NAV-->
-	<nav class="nav">
-		<h1>Barra de navegación</h1>
+	<nav class="navbar navbar-expand-sm navbar-dark bg-dark text-white justify-content-around p-3">
+		<nav class="navbar-nav">
+			<a class="nav-link" href="#">Inicio</a>
+			<a class="nav-link" href="#">Novedades</a>
+			<a class="nav-link" href="#">Nosotros</a>
+			<a class="nav-link" href="#">Contacto</a>
+		</nav>
+		<form class="form-inline">
+			<input class="form-control form-control-sm mr-md-2" type="search" placeholder="Buscar">
+			<input class="btn btn-primary btn-sm" type="submit">
+		</form>
 	</nav>
 	<!--JUMBOTRON-->
-	<section class="jumbotron">
-		<h1>Jumbotron</h1>
+	<section class="jumbotron bg-info text-white ">
+
+		<h1>Diseño de interfaces web</h1>
+		<h5>Blog de diseño web</h5>
 	</section>
 	<!--SECTION-->
-	<section class="main container seccion">
+	<section class="main container seccion d-flex justify-content-between">
 		<div class="row containerBody">
 			<section class="col-md-9">
-				<article class="articulo">
-					<h1>Artículo #1</h1>
+				<article class="articulo ">
+					<img src="img/img1.jpg" class="w-50  float-left m-1">
+					<h4 class="" >Inicia proyectos de HTML5 mas rapido con Initializer</h4>
+					<p >Inicia proyectos de HTML5 mas rapido con Initializer< Inicia proyectos de HTML5 mas rapido con Initializer
+						Inicia proyectos de HTML5 mas rapido con Initializer Inicia proyectos de HTML5 mas rapido con Initializer
+						Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize
+						Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize
+						Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize
+						Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize</p>
+					<button class="btn btn-primary btn-sm" type="submit" value="Comentarios"> Comentarios <span class="badge badge-light">4</span></button>
+					<input class="btn btn-primary btn-sm" type="submit" value="Leer mas">
 				</article>
 
-				<article class="articulo">
-					<h1>Artículo #2</h1>
-				</article>
+				<hr>
 
 				<article class="articulo">
-					<h1>Artículo #3</h1>
-				</article>
+					<article class="articulo ">
+						<img src="img/img2.jpg" class="w-50  float-left m-1">
+						<h4 class="" >Inicia proyectos de HTML5 mas rapido con Initializer</h4>
+						<p >Inicia proyectos de HTML5 mas rapido con Initializer< Inicia proyectos de HTML5 mas rapido con Initializer
+							Inicia proyectos de HTML5 mas rapido con Initializer Inicia proyectos de HTML5 mas rapido con Initializer
+							Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize
+							Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize
+							Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize
+							Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize</p>
+						<button class="btn btn-primary btn-sm" type="submit" value="Comentarios"> Comentarios <span class="badge badge-light">4</span></button>
+						<input class="btn btn-primary btn-sm" type="submit" value="Leer mas">
+					</article>
 
-				<nav class="paginacion">
-					<h3>Paginación</h3>
-				</nav>
+				<hr>
+
+					<article class="articulo ">
+						<img src="img/img3.jpg" class="w-50  float-left m-1">
+						<h4 class="" >Inicia proyectos de HTML5 mas rapido con Initializer</h4>
+						<p >Inicia proyectos de HTML5 mas rapido con Initializer< Inicia proyectos de HTML5 mas rapido con Initializer
+							Inicia proyectos de HTML5 mas rapido con Initializer Inicia proyectos de HTML5 mas rapido con Initializer
+							Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize
+							Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize
+							Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize
+							Inicia proyectos de HTML5 mas rapido con Initialize Inicia proyectos de HTML5 mas rapido con Initialize</p>
+						<button class="btn btn-primary btn-sm" type="submit" value="Comentarios"> Comentarios <span class="badge badge-light">4</span></button>
+						<input class="btn btn-primary btn-sm" type="submit" value="Leer mas">
+					</article>
+
+				<hr>
+
 			</section>
 
 			<!--SIDEBAR-->
-			<aside class="d-none d-md-block col-md-3  aside">
-				<h1>Aside</h1>
+			<aside class="d-none d-md-block col-md-3 aside ">
+				<h3>Categorias</h3>
+
+				<ul class="border  p-0">
+					<li class="border-bottom p-1">Diseño web</li>
+					<li class="border-bottom p-1">CSS</li>
+					<li class="border-bottom p-1">Cursos</li>
+					<li class="border-bottom p-1">Dsarrollo Web</li>
+					<li class="border-bottom p-1">Elementos Web</li>
+					<li class="border-bottom p-1">JQuery</li>
+				</ul>
+
+				<h3>Articulos Recientes</h3>
+
+				<ul class="border p-0">
+					<li class="border-bottom p-1">
+						<p class="font-weight-bold">Inicia proyectos de HTML5 mas rapido con Initializer</p>
+
+						<p>Inicia proyectos de HTML5 mas rapido con Initializer
+							Inicia proyectos de HTML5 mas rapido con Initializer</p>
+					</li>
+					<li class="border-bottom p-1">
+						<p class="font-weight-bold">Inicia proyectos de HTML5 mas rapido con Initializer</p>
+
+						<p>Inicia proyectos de HTML5 mas rapido con Initializer
+							Inicia proyectos de HTML5 mas rapido con Initializer</p>
+					</li>
+					<li class="border-bottom p-1">
+						<p class="font-weight-bold">Inicia proyectos de HTML5 mas rapido con Initializer</p>
+
+						<p>Inicia proyectos de HTML5 mas rapido con Initializer
+							Inicia proyectos de HTML5 mas rapido con Initializer</p>
+					</li>
+					<li class="border-bottom p-1">
+						<p class="font-weight-bold">Inicia proyectos de HTML5 mas rapido con Initializer</p>
+
+						<p>Inicia proyectos de HTML5 mas rapido con Initializer
+							Inicia proyectos de HTML5 mas rapido con Initializer</p>
+					</li>
+				</ul>
 			</aside>
+			<nav aria-label="Page navigation example">
+				<ul class="pagination">
+					<li class="page-item"><a class="page-link" href="#">Previous</a></li>
+					<li class="page-item"><a class="page-link" href="#">1</a></li>
+					<li class="page-item"><a class="page-link" href="#">2</a></li>
+					<li class="page-item"><a class="page-link" href="#">3</a></li>
+					<li class="page-item"><a class="page-link" href="#">Next</a></li>
+				</ul>
+			</nav>
 		</div>
+
 	</section>
 	<!--FOOTER-->
 	<footer class="footer">

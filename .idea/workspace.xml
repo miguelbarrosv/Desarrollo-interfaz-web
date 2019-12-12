@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86b25c63-ba60-4a4a-b10e-966d5538ed29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/css/boceto2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto.html" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
       <workItem from="1575447953088" duration="4122000" />
       <workItem from="1575530660986" duration="6461000" />
       <workItem from="1575893665769" duration="2591000" />
+      <workItem from="1576136099115" duration="6708000" />
     </task>
     <servers />
   </component>
