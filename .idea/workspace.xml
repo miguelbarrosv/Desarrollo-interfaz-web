@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86b25c63-ba60-4a4a-b10e-966d5538ed29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/css/boceto2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog/boceto2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,12 +26,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Evaluacion 3/Ejercicio4 - Blog" />
     </key>
   </component>
@@ -65,6 +65,8 @@
       <workItem from="1575530660986" duration="6461000" />
       <workItem from="1575893665769" duration="2591000" />
       <workItem from="1576136099115" duration="6708000" />
+      <workItem from="1576238242626" duration="237000" />
+      <workItem from="1576496899904" duration="3017000" />
     </task>
     <servers />
   </component>
